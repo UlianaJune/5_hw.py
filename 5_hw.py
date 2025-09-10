@@ -1,7 +1,7 @@
 ДЗ 5/1
 
 if__name__=="__main__""
-button = Button("КнопкиЭ")
+button = Button("Кнопка")
 input_field = Input("Поля")
 title = Title("Заголовок")
 link = Link("Ссылки")
