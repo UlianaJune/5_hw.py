@@ -5,7 +5,6 @@ button = Button("КнопкиЭ")
 input_field = Input("Поля")
 title = Title("Заголовок")
 link = Link("Ссылки")
-
     print(button.check_text())
     print(input_field.check_text())
     print(title.check_text())
